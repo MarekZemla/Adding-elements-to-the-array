@@ -1,5 +1,5 @@
 ## Adding elements to the array by entering them in the input field.
-[click here to se how it works ]
+### [click here to se how it works](https://marekzemla.github.io/Adding-elements-to-the-array/)
 ### //1.  I create a constant variable to which I assign an empty array, in which more elements will be added later.
 ### //2.  I set it to listen on a button that I download without assigning it to a variable, because it will only be used once in the code. I set the listening on to click and assign the declared function.
 ### //3.  I create another constant variable to which I assign an arrow function. Inside this function, I set the event (e) attribute, which I refer to later in the function, to use the / preventDefault method, which is to stop deleting the content entered in input after clicking the button
